@@ -2,7 +2,7 @@ The purpose of the project was to provide some of the services that an average o
 
 This project was made as a part of the course IT Workshop 2, and the team that worked on it comprised of 4 members:
 
-Akanksha Srivastava
-Itisha Dewan
-Swati Dewan
+Akanksha Srivastava,
+Itisha Dewan,
+Swati Dewan,
 Shikha Jain
