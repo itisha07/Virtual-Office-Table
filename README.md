@@ -4,10 +4,7 @@ reminders.
 
 This project was made as a part of the course IT Workshop 2, and the team that worked on it comprised of 4 members:
 
-Akanksha Srivastava
-
-Itisha Dewan
-
-Swati Dewan
-
+Itisha Dewan,
+Swati Dewan,
+Akanksha Srivastava,
 Shikha Jain
